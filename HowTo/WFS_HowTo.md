@@ -19,12 +19,12 @@ I just want to start!
 * GetCapabilities <pre>http://berlin3d-wfs.virtualcitymap.de/wfs?request=GetCapabilities&service=WFS</pre>
 * GetFeature example --> use the WFS GUI: http://berlin3d-wfs.virtualcitymap.de/wfsclient
 <pre>
-<?xml version="1.0" encoding="UTF-8"?>
-<wfs:GetFeature service="WFS" version="2.0.0" xmlns:wfs="http://www.opengis.net/wfs/2.0">
-  <wfs:StoredQuery id="http://www.opengis.net/def/query/OGC-WFS/0/GetFeatureById">
-    <wfs:Parameter name="id">BLDG_0003000e007d8955</wfs:Parameter>
-  </wfs:StoredQuery>
-</wfs:GetFeature>
+&lt;?xml version="1.0" encoding="UTF-8"?&gt;
+&lt;wfs:GetFeature service="WFS" version="2.0.0" xmlns:wfs="http://www.opengis.net/wfs/2.0"&gt;
+  &lt;wfs:StoredQuery id="http://www.opengis.net/def/query/OGC-WFS/0/GetFeatureById"&gt;
+    &lt;wfs:Parameter name="id"&gt;BLDG_0003000e007d8955&lt;/wfs:Parameter&gt;
+  &lt;/wfs:StoredQuery&gt;
+&lt;/wfs:GetFeature&gt;
 </pre>
 
 

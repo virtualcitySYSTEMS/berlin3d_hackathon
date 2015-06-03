@@ -1,7 +1,7 @@
-Web Feature Service tutorial
+3D web mapping tutorial
 =====
 
-This is short tutorial for those who want to work with the Berlin model on the Cesium globe
+This is short tutorial for those who want to work with the Berlin model on Cesium
 
 1. Requirements and setup
 ----------
