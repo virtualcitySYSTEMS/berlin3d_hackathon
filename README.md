@@ -14,8 +14,7 @@ Presentations:
 Data (as zip files):
 * Berlin LoD 2 (complete city model) in CityGML format divided into the separate districts
 * SQL dump (PostgreSQL) of the database used for the Berlin3D Download Portal
-* KML files of the complete city model
-* COLLADA files of the complete city model
+* COLLADA & glTF files of the complete city model
 
 Documents:
 * Tutorial for database users
