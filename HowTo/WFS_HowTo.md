@@ -40,3 +40,11 @@ I just want to start!
 
 * Explain the CityGML XSD schema
 * Show ways how to parse CityGML
+
+
+4. Contact
+----------
+
+cnagel[at]virtualcitysystems.de
+or
+use the issues section of this GitHub repo, so that questions and answers are visible to everybody

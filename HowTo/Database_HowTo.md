@@ -18,7 +18,7 @@ Do mostly everything by yourself?
 * Download and install PostgreSQL version 9.1 or higher
 * Download and install PostGIS extension for PostrgeSQL of version 2.0 or higher
 * Download and install 3D City Database Importer/Exporter from [here](http://www.3dcitydb.net/3dcitydb/downloads/)
-* Unzip and restore the database dump
+* Unzip and restore the database dump (see chapter 4)
 * On command line restoring works with: <pre>psql -h localhost -p 5432 -U [your_username] -d [your_database_name] -f [location_of_dump].sql</pre>
 * Restoring takes a long time
 
@@ -48,3 +48,19 @@ I just want to start!
 
 * Explain the database schema to you
 * Explain the different APIs of stored procedures
+
+
+4. SQL Dump
+----------
+
+You can download the SQL dump of the Berlin LoD2 model from our FTP server. 
+You can use an FTP client software like [FileZilla](https://filezilla-project.org/) or enter the address in your browser
+Please contact Felix to get the server address!
+
+
+5. Contact
+----------
+
+fkunde[at]virtualcitysystems.de
+or
+use the issues section of this GitHub repo, so that questions and answers are visible to everybody
